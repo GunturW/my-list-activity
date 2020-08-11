@@ -155,32 +155,7 @@
       border-bottom: 1px solid rgba(0, 0, 0, 0.1);
       font-size: 16px;
     }
-    .tasker-body .task:last-child {
-      border-bottom: none;
-    }
-    .tasker-body .task:hover > button {
-      opacity: 1;
-      font-size: 20px;
-    }
-    .tasker-body .task.completed {
-      color: #cdcdcd;
-      text-decoration: line-through;
-    }
   
-    .tasker-body .task input {
-      margin-right: 10px;
-    }
-    .tasker-body .task button {
-      color: #cdcdcd;
-      margin: 14px;
-      position: absolute;
-      top: 0;
-      right: 0;
-      opacity: 0;
-    }
-    .tasker-body .task button:hover {
-      color: #ed1c24;
-    }
  }
 
  /* ipad*/
